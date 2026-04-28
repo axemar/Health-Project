@@ -23,7 +23,7 @@ notebooks/
 ## Results
 | Model | Accuracy | AUC |
 |-------|----------|-----|
-| ResNet50 (Imaging) | 83.7% | 0.932 |
+| ResNet50 (Imaging) | 88% | 0.921 |
 | XGBoost (Tabular) | TBD | TBD |
 | Fusion Model | TBD | TBD |
 
